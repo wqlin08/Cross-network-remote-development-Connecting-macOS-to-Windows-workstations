@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="README.md">English</a> |
+  <a href="README.zh-CN.md">简体中文</a>
+</p>
+
+---
+
 # 跨网络远程开发环境搭建指南：MacOS 连接 Windows 工作站
 
 本指南详细说明如何使用 VS Code Remote-SSH 结合 Tailscale 内网穿透工具，实现从 MacOS 客户端远程控制 Windows 工作站进行 Python 开发。
