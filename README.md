@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="README.md">English</a> |
+  <a href="README.zh-CN.md">简体中文</a>
+</p>
+
+---
+
 # Remote Development Environment Setup Guide: MacOS Connecting to Windows Workstation
 
 This guide details how to use VS Code Remote-SSH combined with the Tailscale intranet tunneling tool to remotely control a Windows workstation from a MacOS client for Python development.
